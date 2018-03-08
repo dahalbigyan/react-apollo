@@ -5,6 +5,7 @@ const Contacts = () => {
     <ul>
       <li>Bigyan Dahal</li>
       <li>Liverpool FC</li>
+      <li>Anfield</li>
     </ul>
   );
 }
